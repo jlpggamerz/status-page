@@ -22,7 +22,7 @@ sudo apt install git -y
 git clone https://github.com/jlpggamerz/status-page
 
 ### 2. Navigate to Directory
-cd hosting-status-page
+cd status-page
 
 ### 3. Install Dependencies
 npm install
